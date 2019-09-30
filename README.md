@@ -2,6 +2,7 @@
 
 # lib-metrics
 
+[![](https://img.shields.io/badge/Level-Core-red)](https://github.com/go-autumn/lib-metrics)
 [![Build Status](https://travis-ci.org/go-autumn/lib-metrics.svg?branch=master)](https://travis-ci.org/go-autumn/lib-metrics)
 [![codecov](https://codecov.io/gh/go-autumn/lib-metrics/branch/master/graph/badge.svg)](https://codecov.io/gh/go-autumn/lib-metrics)
 
