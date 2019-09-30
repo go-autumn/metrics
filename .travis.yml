@@ -3,7 +3,6 @@ go:
   - 1.13.x
 os:
   - linux
-  - osx
   - windows
 sudo: true
 before_install:
